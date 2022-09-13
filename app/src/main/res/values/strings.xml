@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CountingLearningApp</string>
+    <string name="start">Start</string>
+    <string name="qui">Quiz</string>
+    <string name="repo">Repository</string>
+    <string name="listView">List View</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button10">10</string>
+    <string name="score">Score:</string>
+    <string name="ScoreVal">00</string>
+    <string name="QuizImg">Quiz Image</string>
+    <string name="Ques">How many are fingers are there?</string>
+    <string name="decision">Right Answer!</string>
+    <string name="next">NEXT</string>
+    <string name="option1">A</string>
+    <string name="option2">B</string>
+    <string name="option3">C</string>
+    <string name="sentence">Sentence</string>
+    <string name="number">Number</string>
+    <string name="listviewimage">listViewImage</string>
+</resources>
